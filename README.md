@@ -32,6 +32,7 @@ There is some more hacky code in `main.go` for 'test in main' purposes.
 
 ## Improvements
 
+* Implement get/set config endpoints
 * TEST ALL THE THINGS!
 * https://github.com/vmware/burp-rest-api/issues/35
 * Add a CLI using [spf13/cobra](https://github.com/spf13/cobra)
